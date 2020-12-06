@@ -1,0 +1,6 @@
+/*!
+ * capricorncd.github.io 0.0.1
+ * repository: https://github.com/capricorncd/blog/tree/master/demos/website
+ * author: Capricorncd
+ * github: https://github.com/capricorncd
+ */
