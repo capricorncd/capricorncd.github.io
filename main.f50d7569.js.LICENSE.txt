@@ -4,3 +4,5 @@
  * author: Capricorncd
  * github: https://github.com/capricorncd
  */
+
+/*! For license information please see index.js.LICENSE.txt */
