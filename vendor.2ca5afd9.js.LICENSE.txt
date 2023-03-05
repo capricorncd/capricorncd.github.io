@@ -5,10 +5,10 @@ object-assign
 */
 
 /*!
- * capricorncd.github.io 0.0.1
- * repository: https://github.com/capricorncd/blog/tree/master/demos/website
+ * xing1984.github.io 0.0.1
+ * repository: https://github.com/xing1984/demos/tree/main/website
  * author: Capricorncd
- * github: https://github.com/capricorncd
+ * github: https://github.com/xing1984
  */
 
 /** @license React v0.20.1
